@@ -11,6 +11,7 @@ Select a code snippet from the list and go to the respective subfolder.
 ### List of code snippets
 
 701 - Flamenco Tale Detector
+702 - Semantic Search (FAISS)
 
 ---
 
@@ -23,3 +24,9 @@ The folder for this binary FlamencoWitches fairy tale detector includes LLM fine
 - training data
 - evaluation data
 - examples in production
+
+### 702 - Semantic Search
+
+An cosine-similarity based semantic search engine that leverages Facebook AI Similarity Search (FAISS) to improve search on the libbitcoin repo.
+
+The folder includes a Jupyter notebook with instructions to replicate it.
