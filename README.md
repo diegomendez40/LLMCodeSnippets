@@ -11,6 +11,7 @@ Select a code snippet from the list and go to the respective subfolder.
 ### List of code snippets
 
 701 - Flamenco Tale Detector
+
 702 - Semantic Search (FAISS)
 
 ---
